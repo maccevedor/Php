@@ -1,4 +1,5 @@
 ﻿<?php 
+//prueba git
 require_once("modelo/funciones.php");
 require_once("modelo/conexion.php");
 ?>
